@@ -1,0 +1,15 @@
+{
+  "BikesAtEnd" : 0,
+  "gameState" : 1,
+  "playerCount" : 2,
+  "players" : {
+    "player1" : {
+      "distance" : 2170,
+      "name" : "Name1"
+    },
+    "player2" : {
+      "distance" : 2200,
+      "name" : "Name2"
+    }
+  }
+}
